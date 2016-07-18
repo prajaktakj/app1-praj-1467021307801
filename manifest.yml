@@ -1,6 +1,6 @@
 applications:
 - path: JavaHelloWorldApp.war
-  memory: 512M
+  memory: 128M
   instances: 1
   domain: mybluemix.net
-  disk_quota: 1024M
+  disk_quota: 512M
