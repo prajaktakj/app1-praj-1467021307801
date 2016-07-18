@@ -3,5 +3,4 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  host: app1-praj
   disk_quota: 1024M
